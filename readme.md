@@ -1,0 +1,1 @@
+MySQL is the world's most widely used open-source relational database management system (RDBMS), enabling the cost-effective delivery of reliable, high-performance and scalable Web-based and embedded database applications. It is widely-used as the database component of LAMP (Linux, Apache, MySQL, Perl/PHP/Python) web application software stack.
